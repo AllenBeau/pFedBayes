@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Personalized Federated Learning via Variational Bayesian Inference [ICML 2022]
 This is the **unofficial** implementation of **Personalized Federated Learning via Variational Bayesian Inference**
 
