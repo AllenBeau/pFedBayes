@@ -71,6 +71,3 @@ Other parameters are changed according to the experiments.
 pFedMe: https://github.com/CharlieDinh/pFedMe
 
 
-=======
-# pFedBayes
->>>>>>> 5d6fe7e7ff6779c7421dd6e2654aec1d98436c29
